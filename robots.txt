@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faichaewee.isdemus.com/sitemap.xml
